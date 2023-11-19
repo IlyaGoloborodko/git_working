@@ -115,9 +115,10 @@ $ ssh -T git@github.com
 
 ```bash
 $ git remote add origin git@github.com:%ИМЯ_АККАУНТА%/first-project.git 
-
 ```
+
 Для проверки используй:
+
 ```bash
 $ git remote -v
 ```
